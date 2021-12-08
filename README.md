@@ -2,6 +2,8 @@
 
 ### 📜 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Minecraft Raspberry Pi Server Performance Test](https://blog.zeninja864.dev/2021/12/minecraft-raspberry-pi-server.html)
+- [Fallout 4](https://blog.zeninja864.dev/2021/12/blog-post.html)
 <!-- BLOG-POST-LIST:END -->
 
 💾 &nbsp;**This week I spent my time on**

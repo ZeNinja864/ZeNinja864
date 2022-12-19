@@ -1,6 +1,6 @@
 # 👋 Hello there!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeninja864&layout=compact&theme=tokyonight)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeninja864&layout=compact&theme=tokyonight)](https://github.com/zeninja864/github-readme-stats)
 
 ![ZeNinja864's Github Stats](https://github-readme-stats.vercel.app/api?username=zeninja864&show_icons=true&theme=tokyonight)
 <!--

@@ -1,5 +1,7 @@
 # 👋 Hello there!
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeninja864&layout=compact&theme=tokyonight)]
+
 ![ZeNinja864's Github Stats](https://github-readme-stats.vercel.app/api?username=zeninja864&show_icons=true&theme=tokyonight)
 <!--
 **ZeNinja864/ZeNinja864** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
